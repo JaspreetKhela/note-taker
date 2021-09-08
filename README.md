@@ -19,7 +19,7 @@
 * [License](#license)
 
 ### Installation
-N/A
+To use this application, navigate to the deployment link above. The back-end of this application uses Express.js.
 
 ### Usage
 To use this application, navigate to the deployment link above.
