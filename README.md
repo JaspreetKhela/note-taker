@@ -19,7 +19,7 @@
 * [License](#license)
 
 ### Installation
-To use this application, navigate to the deployment link above. The back-end of this application uses Express.js.
+To use this application, navigate to the deployment link above. The back-end of this application uses the express npm package.
 
 ### Usage
 To use this application, navigate to the deployment link above.
